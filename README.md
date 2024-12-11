@@ -40,5 +40,4 @@ Os resultados do projeto incluem:
 - **Insights sobre Impacto de Cada Canal**: O modelo também revela o impacto relativo de cada canal de marketing (YouTube, Facebook e jornais) nas vendas, auxiliando na tomada de decisões estratégicas para otimização de investimentos.
 
 ## Contato
-
-Para dúvidas ou sugestões sobre o projeto, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+Se você tiver dúvidas ou sugestões, entre em contato por [vitttormuniz@gmail.com](mailto:vitttormuniz@gmail.com).
